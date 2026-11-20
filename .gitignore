@@ -1,0 +1,10 @@
+# Réglages des IDE (personnels)
+.idea/
+*.iml
+.vscode/
+
+# Fichiers compilés par Maven
+target/
+
+# Fichiers système Mac
+.DS_Store
